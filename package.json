@@ -1,0 +1,10 @@
+{
+  "name": "hozaho-radio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hozaho TV & Radio: website + Netlify Function API",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "mysql2": "^3.11.0"
+  }
+}
